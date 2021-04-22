@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          La Casa restaurant
+          La Casa restaurant!
         </a>
       </header>
     </div>
